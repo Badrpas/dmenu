@@ -1,3 +1,8 @@
+This a fork with custom keybinds:
+Ctrl+j - Left
+Ctrl+k - Right
+
+
 dmenu - dynamic menu
 ====================
 dmenu is an efficient dynamic menu for X.
